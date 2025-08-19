@@ -68,7 +68,7 @@
 1. 克隆项目
 
    ```bash
-   git clone https://github.com/yourname/unity-drone-data-collector.git
+   git clone https://github.com/15070917659/Drone-Data-Visualization-Platform.git
    ```
 
 ## 🙋 关于我
